@@ -1,0 +1,121 @@
+/* ESTILOS PARTE 1 DEL EJERCICO CSS
+
+#bloque1{
+  background-color: rgb(246,181,50);
+  display: block;
+  height: 100px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#bloque2{
+  background-color: rgb(43,43,43);
+  display: block;
+  color: white;
+  height: 100px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#bloque3{
+  background-color: rgb(246,181,50);
+  display: block;
+  text-transform: uppercase;
+  height: 100px;
+  padding: 10px;
+}
+*/
+
+/* ESTILOS PARTE 2 DEL EJERCICO CSS
+
+#bloque1{
+  background-color: rgb(246,181,50);
+  display: block;
+  height: 100px;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 30%;
+}
+
+#bloque2{
+  background-color: rgb(43,43,43);
+  display: block;
+  color: white;
+  height: 100px;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 30%;
+}
+
+#bloque3{
+  background-color: rgb(246,181,50);
+  display: block;
+  text-transform: uppercase;
+  height: 100px;
+  padding: 10px;
+  width: 30%;
+}
+
+*/
+
+/* ESTILOS PARTE 3 DEL EJERCICO CSS
+
+#bloque1{
+  background-color: rgb(246,181,50);
+  display: inline-block;
+  height: 100px;
+  padding: 10px;
+  margin: 10px;
+  width: 30%;
+}
+
+#bloque2{
+  background-color: rgb(43,43,43);
+  display: inline-block;
+  color: white;
+  height: 100px;
+  padding: 10px;
+  margin: 10px;
+  width: 30%;
+}
+
+#bloque3{
+  background-color: rgb(246,181,50);
+  display: inline-block;
+  height: 100px;
+  padding: 10px;
+  margin: 10px;
+  width: 30%;
+  text-transform: uppercase;
+}
+*/
+
+/* Estilos parte 4 */
+#bloque1{
+  background-color: rgb(246,181,50);
+  display: inline-block;
+  height: auto;
+  padding: 10px;
+  margin: 10px;
+  width: auto;
+}
+
+#bloque2{
+  background-color: rgb(43,43,43);
+  display: inline-block;
+  color: white;
+  height: auto;
+  padding: 10px;
+  margin: 10px;
+  width: auto;
+}
+
+#bloque3{
+  background-color: rgb(246,181,50);
+  display: inline-block;
+  height: auto;
+  padding: 10px;
+  margin: 10px;
+  width: auto;
+  text-transform: uppercase;
+}
